@@ -13,4 +13,4 @@ change the subject title and the lesson
 title, and fill out your answers under the
 lessons you struggled with below:
 ### Introduction to Basic HTML and HTML5
-**Say Hello to HTML Elements**
+While the introduction to HTML wasn't particularly difficult, I enjoy that it is easier to understand and write at first when compared to C##. The one habit I do have is that I tend to get ahead of myself when reading the lessons, or thinking "Ha, I know this already!" which leads to my code not working. 
