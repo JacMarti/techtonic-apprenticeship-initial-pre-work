@@ -27,7 +27,8 @@ Trying to follow examples in these later lessons, or at least referring to them 
 
 This lesson tricked me a little bit. I set my while loop up fine, but was caught off guard when they wanted the sequence to be backwards. I had to think about it for a moment after checking my notes and ended up using .reverse to pass the lesson. I don't remember that being spoken about in previous lessons so it felt good to solve my problem on my own. Another way I did it was assigning my var i a value of 5.
 
-### Intro to ES6 challenges**
+### Intro to ES6 challenges
 
-**Use Destructuring Assignment to Pass an Object as a Function's Parameters
+**Use Destructuring Assignment to Pass an Object as a Function's Parameters**
+
 I struggled with this lesson because it didn't make sense how to pass max and min into my argument at first. I wrote my code and studied what was in the console before reading a hint and peeked at the solution on how to solve it. Sometimes I overthink what I'm doing and complicate it more than needed for myself. 
