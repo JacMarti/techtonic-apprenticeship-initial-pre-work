@@ -1,4 +1,4 @@
-article{ 
+header{ 
     width:100%;
     height:100px;
     background: url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_960_720.jpg");
@@ -24,7 +24,7 @@ footer{
 }
 h1 {
     color: black;
-    font-size: 20px;
+    font-size: 40px;
     width:100%;
     text-align: center;
     font-family: 'Dancing Script', cursive, monospace;
@@ -55,9 +55,7 @@ p2 {
     color:black;
     margin: 10px;       
 }
-.img-container-block {
-    text-align: center;
-}
+
 
 
 
