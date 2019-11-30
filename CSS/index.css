@@ -9,6 +9,10 @@ article{
 
 body{
     background-color: gray;
+    background: url("https://cdn.pixabay.com/photo/2014/10/04/15/29/paper-473630_960_720.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top top;
     
 }
 
@@ -37,15 +41,13 @@ p {
 
 .row {
     display: flex;
-    flex:50%;
+    
 }
 
 .column{
-    background: url("https://cdn.pixabay.com/photo/2014/10/04/15/29/paper-473630_960_720.jpg"); 
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-position: center; 
-    color:black;       
+    flex: 50%;
+    color:black;
+    margin: 10px;       
 }
 
 
