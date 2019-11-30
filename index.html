@@ -9,43 +9,57 @@
     <title>Document</title>   
     <link rel="stylesheet" href="CSS/index.css">
 </head>
+
 <body>
+    <article>
     <header id="header-background">
         <div class="logo"></div>    
         <h1>Nikola Tesla</h1>
-    </header>
+    </header>  
+    </article>  
+
+    <style>
+
+            .column {
+              float: left;
+              width: 50%;
+              padding: 10px;
+              height: 300px; 
+            }
+            
+            
+            .row:after {
+              content: "";
+              display: table;
+              clear: both;
+            }
+            </style>
+             
+            <div class="row">    
+              <div class="column" style="background-color:000;">
+                <img src="http://theamazinglifeofnikolatesla.weebly.com/uploads/9/3/5/7/9357689/5760118.jpg?1321028237" alt="Telsa sitting in front of his experiment" style="width:175px;height:225px;" />
+                <h2></h2>
+                <p>Tesla was from a family of Serbian origin. His father was an Orthodox priest; his mother was unschooled but highly intelligent. As he matured, he displayed a remarkable imagination and crativity as well as a poetic touch. Training for an engineering career, he attended the Technical University at Graz, Austria, and the University of Prague. At Graz he first saw the Gramme dynamo, which operated as a generator and, when reversed, became an electric motor, and he conceived a way to use alternating current to advantage. </p>
+              </div>
+              <div class="column" style="background-color:000;">
+                
+                <h2>Column 2</h2>
+                <ul>
+                <li>He attended the Technical University at Graz, Austria</li>
+                <li>can</li>
+                <li>make</li>
+                <li>this</li>
+                <li>whatever</li>
+                <li>I</li>
+                <li>want</li>
+            
+                </ul>
+              </div>
+            </div>
+
+        <footer>
+            <p>Blah Blah</p>
+        </footer>
 </body>
 </html>
 
-<style>
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; 
-}
-
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-
-  
-<div class="row">    
-  <div class="column" style="background-color:000;">
-    <img src="http://thesrpskatimes.com/wp-content/uploads/2019/07/D6Sp2IZUIAEnGmw-640x360.jpg" alt="Telsa sitting in front of his experiment" style="width:400px;height:225px;" />
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:000;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
