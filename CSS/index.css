@@ -8,8 +8,7 @@ header{
 }
 body{
     background-color: gray;
-    background: url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_960_720.jpg");
-    
+    background: url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_960_720.jpg");   
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;    
@@ -53,7 +52,9 @@ p {
     margin: 10px;
         
 }
-
+.img-container{
+    text-align:center;
+}
 
 
 
